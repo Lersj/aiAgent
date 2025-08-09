@@ -1,0 +1,1 @@
+This is a guided project for making an AI agent using the Gemini Developer API.
